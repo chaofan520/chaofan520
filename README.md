@@ -13,4 +13,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaofan520)
 
-![](https://komarev.com/ghpvc/?username=chaofan520)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofan520&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=chaofan520&theme=dracula)
+
+ ![Visitor Count](https://profile-counter.glitch.me/chaofan520/count.svg)
+
+ 
+
+
