@@ -9,7 +9,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![chaofan520's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaofan520&show_icons=true&theme=gruvbox)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chaofan520&row=2&column=3)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=chaofan520&no-bg=true&row=2&column=3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofan520&layout=compact&theme=tokyonight)
 
