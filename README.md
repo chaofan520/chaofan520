@@ -17,11 +17,4 @@ This is the place where I opensource stuff and break things :rofl:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofan520&layout=compact&theme=tokyonight)
 
 
-You are my
-![Visitor Count](https://profile-counter.glitch.me/chaofan520/count.svg) 
-visitor,Thank you! :wink::wink:
-
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=chaofan520&theme=dracula) 
-
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/chaofan520/count.svg) visitor,Thank You! :wink::wink:
