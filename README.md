@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chaofan520&column=3&margin-w=15&margin-h=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofan520&layout=compact&theme=tokyonight)
+![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofan520&hide_progress=true))
 
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaofan520)
