@@ -13,4 +13,4 @@ This is the place where I opensource stuff and break things :rofl:
 ![trophy](https://github-profile-trophy.vercel.app/?username=chaofan520&column=3&margin-w=15&margin-h=15)
 
 
-// ![](https://komarev.com/ghpvc/?username=chaofan520)
+![](https://komarev.com/ghpvc/?username=chaofan520)
