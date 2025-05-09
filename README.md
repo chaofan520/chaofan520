@@ -7,6 +7,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 <a href="https://github.com/chaofan520">
 
+<div align="center" >
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=chaofan520&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /><br>
 
