@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :blush::blush:
-- 🌱 &nbsp;I’m currently learning ML,AI and Math :kissing_smiling_eyes::kissing_smiling_eyes:
+- 🌱 &nbsp;I’m currently learning AI and Math :kissing_smiling_eyes::kissing_smiling_eyes:
 - 💬 &nbsp;Ask me about anything related to Python/Bioinformatics :flushed::flushed:
 
 <a href="https://github.com/chaofan520">
